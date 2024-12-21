@@ -5,6 +5,6 @@ x1 = e // 4
 x2 = p * x1
 x3 = hb - x2
 if x3 > 0:
-    print(x3)
+    print('Remainning Health:',x3)
 else:
     print('User Died')
